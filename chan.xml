@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="device/realme/chan"
+             name="hakimi-x3-stuff/android_device_realme_chan"
+             remote="github"
+             revision="lineage-21" />
+
+    <project path="device/realme/sm8150-common"
+             name="hakimi-x3-stuff/android_device_realme_sm8150-common"
+             remote="github"
+             revision="lineage-21" />
+
+</manifest>
