@@ -11,4 +11,8 @@
              remote="github"
              revision="lineage-21" />
 
+    <project path="hardware/oplus"
+             name="LineageOS/android_hardware_oplus"
+             remote="github"
+             revision="lineage-21" />
 </manifest>
