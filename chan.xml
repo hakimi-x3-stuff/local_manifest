@@ -15,4 +15,9 @@
              name="LineageOS/android_hardware_oplus"
              remote="github"
              revision="lineage-21" />
+
+    <project path="packages/apps/RealmeParts"
+             name="hakimi-x3-stuff/android_packages_apps_RealmeParts"
+             remote="github"
+             revision="lineage-21" />
 </manifest>
