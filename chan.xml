@@ -6,10 +6,10 @@
              remote="github"
              revision="lineage-21" />
 
-    <project path="device/realme/sm8150-common"
-             name="hakimi-x3-stuff/android_device_realme_sm8150-common"
+    <project path="device/realme/chan-kernel"
+             name="hakimi-x3-stuff/chan-kernel"
              remote="github"
-             revision="lineage-21" />
+             revision="main" />
 
     <project path="hardware/oplus"
              name="LineageOS/android_hardware_oplus"
